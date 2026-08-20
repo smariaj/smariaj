@@ -67,20 +67,7 @@ This profile is a space to share some of that work.
 
 **[Movie Recommendation System](https://github.com/smariaj/movie-reccomendation)** — Content-based recommender suggesting top 5 movies from 5000+ titles using metadata similarity and NLP feature extraction. `Python` `Pandas` `Scikit-learn` `NLP`
 
----
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-black.vercel.app/api?username=smariaj&show_icons=true&theme=default&count_private=true&cache_seconds=86400" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smariaj&theme=default" alt="GitHub Streak" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-black.vercel.app/api/top-langs/?username=smariaj&layout=compact&theme=default&cache_seconds=86400" alt="Top Languages" height="160"/>
-</p>
-
----
 
 ### LeetCode Stats
 
@@ -90,6 +77,3 @@ This profile is a space to share some of that work.
   </a>
 </p>
 
-<p align="center">
-  <a href="https://leetcode.com/u/marss_05/">200+ problems solved on LeetCode</a>
-</p>
