@@ -69,19 +69,6 @@ This profile is a space to share some of that work.
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-black.vercel.app/api?username=smariaj&show_icons=true&theme=default&count_private=true&cache_seconds=86400" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smariaj&theme=default" alt="GitHub Streak" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-black.vercel.app/api/top-langs/?username=smariaj&layout=compact&theme=default&cache_seconds=86400" alt="Top Languages" height="160"/>
-</p>
-
----
-
 ### LeetCode
 
 <p align="center"> <a href="https://leetcode.com/u/marss_05/"> </a> </p>
