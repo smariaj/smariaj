@@ -90,8 +90,6 @@ This profile is a space to share some of that work.
 
 <br/>
 
-<p align="center"> <a href="https://leetcode.com/u/marss_05/"> <img src="https://leetcode-stats-six.vercel.app/?username=marss_05&theme=dark" alt="LeetCode Stats" height="200"/> </a> </p>
-
 <p align="center"> <a href="https://leetcode.com/u/marss_05/"> <img src="https://img.shields.io/badge/View%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="View LeetCode Profile"/> </a> </p>
 
 
