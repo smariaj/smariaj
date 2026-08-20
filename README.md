@@ -79,8 +79,6 @@ This profile is a space to share some of that work.
 
 <p align="center"> <a href="https://leetcode.com/u/marss_05/"> <img src="https://img.shields.io/badge/View%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="View LeetCode Profile"/> </a> </p>
 
-
-
-
+---
 
 <p align="center"> <i>Always learning. Always building. Always solving. </i> </p>
