@@ -84,7 +84,7 @@ This profile is a space to share some of that work.
 
 ### LeetCode
 
-<p align="center"> <a href="https://leetcode.com/u/marss_05/"> <img src="https://img.shields.io/badge/LeetCode-200%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode 200+"/> </a> </p>
+<p align="center"> <a href="https://leetcode.com/u/marss_05/"> </a> </p>
 
 <p align="center"> <i>Practicing problem solving, algorithms and data structures one problem at a time.</i> </p>
 
