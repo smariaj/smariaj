@@ -67,13 +67,35 @@ This profile is a space to share some of that work.
 
 **[Movie Recommendation System](https://github.com/smariaj/movie-reccomendation)** — Content-based recommender suggesting top 5 movies from 5000+ titles using metadata similarity and NLP feature extraction. `Python` `Pandas` `Scikit-learn` `NLP`
 
+---
 
-
-### LeetCode Stats
+### GitHub Stats
 
 <p align="center">
-  <a href="https://leetcode.com/u/marss_05/">
-    <img src="https://leetcode-stats-six.vercel.app/?username=marss_05&theme=dark" alt="LeetCode Stats" height="160"/>
-  </a>
+  <img src="https://github-readme-stats-sigma-black.vercel.app/api?username=smariaj&show_icons=true&theme=default&count_private=true&cache_seconds=86400" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smariaj&theme=default" alt="GitHub Streak" height="160"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats-sigma-black.vercel.app/api/top-langs/?username=smariaj&layout=compact&theme=default&cache_seconds=86400" alt="Top Languages" height="160"/>
+</p>
+
+---
+
+### LeetCode
+
+<p align="center"> <a href="https://leetcode.com/u/marss_05/"> <img src="https://img.shields.io/badge/LeetCode-200%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode 200+"/> </a> </p>
+
+<p align="center"> <i>Practicing problem solving, algorithms and data structures one problem at a time.</i> </p>
+
+<br/>
+
+<p align="center"> <a href="https://leetcode.com/u/marss_05/"> <img src="https://leetcode-stats-six.vercel.app/?username=marss_05&theme=dark" alt="LeetCode Stats" height="200"/> </a> </p>
+
+<p align="center"> <a href="https://leetcode.com/u/marss_05/"> <img src="https://img.shields.io/badge/View%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="View LeetCode Profile"/> </a> </p>
+
+
+
+
+
+<p align="center"> <i>Always learning. Always building. Always solving. </i> </p>
